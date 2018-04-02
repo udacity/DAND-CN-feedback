@@ -25,8 +25,6 @@
 
 > 数据分析课程经理：@Kyliewang
 >
-> Python 课程经理：@ChengGoooo
->
 > 本地化负责人：@sylviasun916
 
 
